@@ -23,5 +23,6 @@ int main()
     string s;
     getline(cin, s);
     cout << RemoveAdj(s) << endl;
+       cout << RemoveAdj(s) << endl;
     return 0;
 }
