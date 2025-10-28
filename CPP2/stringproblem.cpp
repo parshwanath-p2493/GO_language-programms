@@ -1,6 +1,4 @@
-#include<iostream>
-#include<cstring>
-using namespace std;
+
 
 int main(){
     char c[100];
